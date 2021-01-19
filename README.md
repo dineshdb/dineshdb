@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dineshdb}/count.svg" /></p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=dineshdb&count_private=true&show_icons=true&theme=yeblu" alt="Code Statistics">
 
 - 💬 Ask me about *Systems Programming, GNU/Linux, Backend Development, DevOps*.
