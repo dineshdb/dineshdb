@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dineshdb}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dineshdb}/count.svg" width=0 /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dineshdb&count_private=true&show_icons=true&theme=yeblu" alt="Code Statistics" width=0>
+<img src="https://github-readme-stats.vercel.app/api?username=dineshdb&count_private=true&show_icons=true&theme=yeblu" alt="Code Statistics">
 
 - 💬 Ask me about *Systems Programming, GNU/Linux, Backend Development, DevOps*.
 - 📫 How to reach me: https://matrix.to/#/@dineshdb:matrix.org
