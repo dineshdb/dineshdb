@@ -2,7 +2,7 @@
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dineshdb}/count.svg" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dineshdb&count_private=true&show_icons=true&theme=yeblu" alt="Code Statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=dineshdb&count_private=true&show_icons=true&theme=yeblu" alt="Code Statistics" width=0>
 
 - 💬 Ask me about *Systems Programming, GNU/Linux, Backend Development, DevOps*.
 - 📫 How to reach me: https://matrix.to/#/@dineshdb:matrix.org
