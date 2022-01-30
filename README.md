@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dineshdb&count_private=true&show_icons=true&theme=yeblu" alt="Code Statistics">
 
 - 💬 Ask me about *Systems Programming, GNU/Linux, Backend Development, DevOps*.
-🔭 I’m currently working on Infrastructure setup and monitoring using cloud native technologies viz: Docker, Kubernetes, Grafana and related tools.
+- 🔭 I’m currently working on Infrastructure setup and monitoring using cloud native technologies viz: Docker, Kubernetes, Grafana and related tools.
 - 🌱 I’m currently learning Golang.
 - 📫 Reach me at https://matrix.to/#/@dineshdb:matrix.org
 - 😄 Pronouns: He/him
