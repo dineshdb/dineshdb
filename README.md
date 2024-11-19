@@ -6,7 +6,7 @@
 
 - 💬 Ask me about *Systems Programming, GNU/Linux, Backend Development, DevOps*.
 - 🔭 I’m currently working on Infrastructure setup and monitoring using cloud native technologies viz: Docker, Kubernetes, Grafana and related tools.
-- 🌱 I’m currently learning Golang.
+- 🌱 I’m currently learning Rust.
 - 📫 Reach me at https://matrix.to/#/@dineshdb:matrix.org
 - 😄 Pronouns: He/him
 
